@@ -1,0 +1,162 @@
+=== Visual Studio Community 2019 for Mac ===
+
+Version 8.8.10 (build 2)
+Installation UUID: 0ecf7879-26c7-4de2-9681-0ace6b930911
+	GTK+ 2.24.23 (Raleigh theme)
+	Xamarin.Mac 6.18.0.23 (d16-6 / 088c73638)
+
+	Package version: 612000122
+
+=== Mono Framework MDK ===
+
+Runtime:
+	Mono 6.12.0.122 (2020-02/c621c35ffa0) (64-bit)
+	Package version: 612000122
+
+=== Roslyn (Language Service) ===
+
+3.8.0-5.20519.18+4c195c3ac1974edcefa76774d7a59a2350ec55fa
+
+=== NuGet ===
+
+Version: 5.8.0.6860
+
+=== .NET Core SDK ===
+
+SDK: /usr/local/share/dotnet/sdk/5.0.103/Sdks
+SDK Versions:
+	5.0.103
+	5.0.102
+	5.0.101
+	5.0.100
+	3.1.406
+	3.1.405
+	3.1.404
+	3.1.403
+	3.1.402
+	3.1.301
+	3.1.300
+	3.1.101
+	3.1.100
+	3.0.101
+MSBuild SDKs: /Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin/Sdks
+
+=== .NET Core Runtime ===
+
+Runtime: /usr/local/share/dotnet/dotnet
+Runtime Versions:
+	5.0.3
+	5.0.2
+	5.0.1
+	5.0.0
+	3.1.12
+	3.1.11
+	3.1.10
+	3.1.9
+	3.1.8
+	3.1.5
+	3.1.4
+	3.1.1
+	3.1.0
+	3.0.1
+	2.1.23
+	2.1.22
+	2.1.19
+	2.1.18
+	2.1.15
+	2.1.14
+
+=== .NET Core 3.1 SDK ===
+
+SDK: 3.1.406
+
+=== Xamarin.Profiler ===
+
+Version: 1.6.12.29
+Location: /Applications/Xamarin Profiler.app/Contents/MacOS/Xamarin Profiler
+
+=== Updater ===
+
+Version: 11
+
+=== Xamarin.Android ===
+
+Version: 11.1.0.26 (Visual Studio Community)
+Commit: xamarin-android/d16-8/a36ce73
+Android SDK: /Users/tstuts/Library/Developer/Xamarin/android-sdk-macosx
+	Supported Android versions:
+		None installed
+
+SDK Tools Version: 26.1.1
+SDK Platform Tools Version: 28.0.2
+SDK Build Tools Version: 28.0.3
+
+Build Information: 
+Mono: 5e9cb6d
+Java.Interop: xamarin/java.interop/d16-8@79d9533
+ProGuard: Guardsquare/proguard/proguard6.2.2@ebe9000
+SQLite: xamarin/sqlite/3.32.1@1a3276b
+Xamarin.Android Tools: xamarin/xamarin-android-tools/d16-8@2fb1cbc
+
+=== Microsoft OpenJDK for Mobile ===
+
+Java SDK: /Users/tstuts/Library/Developer/Xamarin/jdk/microsoft_dist_openjdk_1.8.0.25
+1.8.0-25
+Android Designer EPL code available here:
+https://github.com/xamarin/AndroidDesigner.EPL
+
+=== Android SDK Manager ===
+
+Version: 16.8.0.32
+Hash: 01a7774
+Branch: remotes/origin/d16-8
+Build date: 2021-01-14 00:34:58 UTC
+
+=== Android Device Manager ===
+
+Version: 16.8.0.46
+Hash: 0a81419
+Branch: remotes/origin/d16-8
+Build date: 2021-01-14 00:35:22 UTC
+
+=== Apple Developer Tools ===
+
+Xcode 12.4 (17801)
+Build 12D4e
+
+=== Xamarin.Mac ===
+
+Version: 7.4.0.10 (Visual Studio Community)
+Hash: a4c70e7d0
+Branch: xcode12.4
+Build date: 2021-02-17 17:40:51-0500
+
+=== Xamarin.iOS ===
+
+Version: 14.14.2.5 (Visual Studio Community)
+Hash: 3836759d4
+Branch: d16-9
+Build date: 2021-02-10 17:56:44-0500
+
+=== Xamarin Designer ===
+
+Version: 16.8.0.510
+Hash: 44e3f3ce9
+Branch: remotes/origin/d16-8
+Build date: 2020-12-10 00:06:14 UTC
+
+=== Build Information ===
+
+Release ID: 808100002
+Git revision: f81ffa2444a28c09f173849935ec9ee0195a5b17
+Build date: 2021-02-18 12:02:12-05
+Build branch: release-8.8
+Xamarin extensions: f81ffa2444a28c09f173849935ec9ee0195a5b17
+
+=== Operating System ===
+
+Mac OS X 10.15.7
+Darwin 19.6.0 Darwin Kernel Version 19.6.0
+    Mon Aug 31 22:12:52 PDT 2020
+    root:xnu-6153.141.2~1/RELEASE_X86_64 x86_64
+
